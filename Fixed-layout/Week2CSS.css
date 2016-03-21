@@ -1,11 +1,12 @@
 
-
    body {
    	background: #81BEF7;
    }
+
 h1 {
 	color: #585858;
 }
+
    #wrapper {
    	width: 960px;
    	margin: auto;
@@ -29,9 +30,11 @@ nav ul li{
 	padding: 20px;
 	font-size: 20px;
 }
+
  nav li a{
 	color: white;
 }
+
  nav li a:hover {
  	color: #81BEF7;
  }
@@ -41,10 +44,8 @@ aside {
 	width: 200px;
 	height:410px;
 	float: left;
-
-	
-
 }
+
 aside img {
 	float: left;
 	width: 180px;
@@ -62,7 +63,6 @@ aside ul {
 	text-align: left;
 	margin:20px;
 	color:#525252;
-
 }
 
 article {
@@ -88,8 +88,7 @@ footer {
 footer ul {
 	list-style-type: none;
 	font-size: 20px;
-	padding-top: 10px;
-	
+	padding-top: 10px;	
 }
 
 footer ul li {
