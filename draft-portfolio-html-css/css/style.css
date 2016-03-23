@@ -1,0 +1,202 @@
+    body {
+      background-image: url("http://www.hd-wallpapers9.com/gallery/Technology/Architecture%20Desktop%20Walpapers/Architecture%20Desktop%20Walpapers-004.jpg");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 2000px;
+    }
+    
+    h1 {
+      font-size: 75px;
+      font-family: "Copperplate Gothic Light";
+      color: #3B0B0B;
+      text-align: center;
+      border-bottom: 1px solid black;
+      padding: 90px 20px 50px 20px
+    }
+    
+    h2 {
+      color: #151515;
+      font-family: "Actor";
+      padding: 20px;
+      font-size: 35px;
+      text-align: center;
+      margin: 30px;
+    }
+    
+    #background2 {
+      background-image: url("http://static.tumblr.com/20b92d4dd2265a0ca95f8f3d8b6fa0a6/z2prt12/kYomtes3j/tumblr_static_324-autumn-leaf-pics.jpg");
+      background-attachment: fixed;
+      background-size: cover;
+      padding: 50px;
+      height: 800px;
+    }
+    
+    img {
+      float: right;
+      width: 250px;
+      border-color: black;
+      border-style: solid;
+      border-width: 2px;
+      border-radius: 10px;
+      margin: 100px 80px 0px 0px;
+    }
+    
+    #navmenu {
+      background-color: #151515;
+      margin: auto 0;
+      height: 60px;
+      text-align: right;
+      font-family: "Arial";
+      font-weight: bolder;
+      font-size: 17px;
+    }
+    
+    #navmenu ul li {
+      display: inline;
+      padding: 15px;
+      position: relative;
+      margin: 0 auto;
+      top: 20px;
+    }
+    
+    #navmenu ul li a {
+      background-color: white;
+      color: #610B0B;
+      padding: 10px;
+      border-radius: 10px;
+      margin: 0 auto;
+    }
+    
+    #navmenu ul li a:hover {
+      background-color: #3B0B0B;
+      color: white;
+      text-decoration: none;
+    }
+    
+    #social {
+      margin: 120px;
+      padding: 0px 50px 130px 0px;
+      text-align: center;
+      font-family: "airal";
+      font-weight: bold;
+      font-size: 18px;
+    }
+    
+    #social ul li {
+      margin: auto;
+      display: inline;
+      position: relative;
+    }
+    
+    #social ul li a {
+      padding: 15px;
+      border-radius: 10px;
+      color: #610B0B;
+    }
+    
+    #social ul li a:hover {
+      background-color: white;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+    
+    .aboutme {
+      Background-color: #F3E2A9;
+      border-radius: 10px;
+      border-color: black;
+      border-style: solid;
+      border-width: 2px;
+      margin: 50px 600px 350px 80px;
+      text-align: center;
+      opacity: .8;
+      color: black;
+      position: absolute;
+      width: 35%;
+    }
+    
+    div ul li {
+      list-style-position: inside;
+      text-align: left;
+    }
+    
+    #background3 {
+      background-image: url(http://www.byronjorjorian.com/gallery/Botannicals/030109-193.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 800px;
+    }
+    
+    figure {
+      margin: auto;
+      width: 1000px;
+      position: relative;
+    }
+    
+    #background4 {
+      background-image: url("http://everclearwindowcleaningid.com/wp-content/uploads/2015/09/Office_View.jpg");
+      background-size: cover;
+      background-attachement: fixed;
+      height: 800px;
+      background-repeat: no-repeat;
+    }
+    
+    h4 {
+      margin-top: 200px;
+      margin-left: 100px;
+      margin-right: 750px;
+      font-size: 20px;
+      clear: left;
+      padding-top: 20px;
+    }
+    
+    h4 a {
+      color: #2E2E2E;
+      font-size: 30px
+    }
+    
+    h5 {
+      text-align: center;
+      color: white;
+      font-size: 60px;
+      margin-top: 0px;
+      padding-top: 150px;
+      font-family: "airal";
+    }
+    
+    h6 {
+      font-size: 50px;
+      margin: 0 auto;
+      padding-top: 250px;
+      margin-left: 100px;
+      float: left;
+      color: black;
+    }
+    
+    section ul {
+      float: right;
+      width: 300px;
+      margin-top: -120px;
+      margin-right: 40px;
+    }
+    
+    section ul li {
+      padding: 20px;
+      list-style-type: none;
+      font-weight: bold;
+      font-size: 25px;
+      border: 1px solid black;
+      border-radius: 20px;
+      margin: 20px;
+      text-align: center;
+    }
+    
+    section li a {
+      color: black;
+    }
+    
+    section li a:hover {
+      color: white;
+      text-decoration: none;
+ 
+    }
